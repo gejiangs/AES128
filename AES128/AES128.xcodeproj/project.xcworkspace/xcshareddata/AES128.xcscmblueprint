@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2C64813F3159D215B3C2E28202295D01D1903D40",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d6da2906-b76d-4016-bf36-d3172097a6a0++9213" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d6da2906-b76d-4016-bf36-d3172097a6a0++9213" : 0,
+    "2C64813F3159D215B3C2E28202295D01D1903D40" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "59EA8A7C-3000-4D73-808C-1DBFED01A8BE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d6da2906-b76d-4016-bf36-d3172097a6a0++9213" : "",
+    "2C64813F3159D215B3C2E28202295D01D1903D40" : "AES\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AES128",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AES128\/AES128.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zmw123\/AES.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C64813F3159D215B3C2E28202295D01D1903D40"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.234",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d6da2906-b76d-4016-bf36-d3172097a6a0++9213"
+    }
+  ]
+}
